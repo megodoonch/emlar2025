@@ -6,7 +6,9 @@ Here are the materials for a tutorial at [Experimental Methods in Language Acqui
 
 The code for this tutorial can be found in the `EMLAR2022.ipynb` jupyter notebook. 
 
-To use this notebook, we recommend you install the [Anaconda](https://www.anaconda.com/) distribution of Python. 
+We recommend you install the [Anaconda](https://www.anaconda.com/) distribution of Python before the start of the tutorial.
+
+This tutorial is target at researchers who are interested in computational modelling but have little to no experience with modelling and/or Distributional Semantic Models.
 
 ## Tutorial overview
 
