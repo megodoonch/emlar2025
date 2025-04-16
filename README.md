@@ -1,10 +1,12 @@
-# EMLAR XVIII 2022 - Computational Modelling in Python: Distributional Semantic Models
+# EMLAR XXI 2025 - Computational Modelling in Python: Distributional Semantic Models
 
-Raquel G. Alhama and Andrew Jessop
+Meaghan Fowlie, Utrecht University
 
-Here are the materials for a tutorial at [Experimental Methods in Language Acquisition Research 2022 workshop](https://emlar.wp.hum.uu.nl/). 
+Materials adapted from Raquel G. Alhama and Andrew Jessop
 
-The code for this tutorial can be found in the `EMLAR2022.ipynb` jupyter notebook. 
+Here are the materials for a tutorial at [Experimental Methods in Language Acquisition Research 2025 workshop](https://emlar.wp.hum.uu.nl/tutorial/computational-modeling/). 
+
+The code for this tutorial can be found in the `EMLAR2025.ipynb` jupyter notebook, and the data in the `data` folder. 
 
 We recommend you install the [Anaconda](https://www.anaconda.com/) distribution of Python before the start of the tutorial.
 
